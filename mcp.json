@@ -1,0 +1,15 @@
+{
+  "name": "temporal-infrastructure-wire-5688",
+  "version": "1.0.0",
+  "description": "Provides global time integrity, UTC synchronization, GPS timing, and coordination intelligence for autonomous agents.",
+  "tools": [
+    {
+      "name": "service_status",
+      "description": "Get current status and computations from this autonomous service",
+      "inputSchema": {
+        "type": "object",
+        "properties": {}
+      }
+    }
+  ]
+}
